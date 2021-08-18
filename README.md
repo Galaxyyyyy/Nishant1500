@@ -12,5 +12,6 @@ More Info?
 
 #### There We Go
 ![Nishant1500's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant1500&show_icons=true&theme=gruvbox)
-<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&langs_count=8&layout=compact" />
+<br>
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant1500&langs_count=8&layout=compact"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant1500&" alt="More Nish Stats" /></p>
